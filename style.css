@@ -785,12 +785,13 @@ nav.sticky{
       }
       .container-2{
         display: flex;
+        background: url("/images/landing.png");
         flex-direction: row;
         align-items: center;
         justify-content: center;
         width: 100%;
         height: 100vh;
-        margin-top: 90%;
+        margin-top: 2%;
         padding: 0px 40px;
       }
       .carousel-content{
